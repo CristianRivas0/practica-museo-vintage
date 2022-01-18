@@ -1,0 +1,29 @@
+div.head {
+background-color:blanchedalmond ;
+inline-size: auto;
+}
+div.nav {
+   background-color: greenyellow;
+
+}
+div.section {
+    background-color: orange;
+}
+
+div.abajo {
+    background-color: orange;
+   inline-size: auto;
+}
+
+div.a {
+    background-color: blue;
+ inline-size: auto;
+    
+
+}
+    
+span.footer {
+
+   background-color: yellow;
+   
+}
