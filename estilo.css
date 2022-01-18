@@ -2,6 +2,9 @@ div.head {
 background-color:blanchedalmond ;
 inline-size: auto;
 }
+span.negrita {
+   font-weight: bold;
+}
 div.nav {
    background-color: greenyellow;
 
