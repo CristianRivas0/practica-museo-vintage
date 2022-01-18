@@ -11,9 +11,7 @@ div.nav {
 div.section {
     background-color: orange;
 }
-span.negrita {
-   font-weight: bold;
-}
+
 div.abajo {
     background-color: orange;
    inline-size: auto;
